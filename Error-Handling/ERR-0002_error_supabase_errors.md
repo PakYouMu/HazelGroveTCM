@@ -1,4 +1,4 @@
-## **ERR-0005:** Error - Supabase Errors  
+## **ERR-0002:** Error - Supabase Errors  
 
 > **Summary:** Verify that Supabase errors are handled appropriately.  <br>
 

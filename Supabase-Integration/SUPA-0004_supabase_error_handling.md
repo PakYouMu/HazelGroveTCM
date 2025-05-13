@@ -1,4 +1,4 @@
-## **SUPA-0005:** Supabase - Error Handling  
+## **SUPA-0004:** Supabase - Error Handling  
 
 > **Summary:** Verify that Supabase errors are handled gracefully.  <br>
 

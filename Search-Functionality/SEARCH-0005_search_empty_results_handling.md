@@ -1,4 +1,4 @@
-## **SEARCH-0006:** Search - Empty Results Handling  
+## **SEARCH-0005:** Search - Empty Results Handling  
 
 > **Summary:** Verify that empty search results are handled gracefully.  <br>
 

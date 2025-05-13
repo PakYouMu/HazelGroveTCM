@@ -1,4 +1,4 @@
-## **SEARCH-0007:** Search - Store Selection  
+## **SEARCH-0006:** Search - Store Selection  
 
 > **Summary:** Verify that selecting a search result correctly loads the store component.  <br>
 

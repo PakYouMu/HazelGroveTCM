@@ -1,4 +1,4 @@
-## **UI-0008:** UI - Animation  
+## **UI-0006:** UI - Animation  
 
 > **Summary:** Verify that UI animations work correctly and complete within expected timeframes.  <br>
 

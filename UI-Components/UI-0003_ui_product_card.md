@@ -1,6 +1,6 @@
-## **UI-0006:** UI - Store Status Card  
+## **UI-0003:** UI - Product Card  
 
-> **Summary:** Verify that store status card displays open/closed status correctly.  <br>
+> **Summary:** Verify that product cards display correct information and handle price formatting.  <br>
 
 **Preconditions:** 
 

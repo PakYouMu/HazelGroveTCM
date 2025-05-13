@@ -1,4 +1,4 @@
-## **SUPA-0004:** Supabase - Real-time Subscriptions  
+## **SUPA-0003:** Supabase - Real-time Subscriptions  
 
 > **Summary:** Verify that real-time subscriptions work correctly for different tables.  <br>
 

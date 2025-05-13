@@ -1,4 +1,4 @@
-## **SEC-0008:** Security - CORS Configuration  
+## **SEC-0006:** Security - CORS Configuration  
 
 > **Summary:** Verify that CORS is properly configured to prevent unauthorized cross-origin requests.  <br>
 

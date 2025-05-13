@@ -1,4 +1,4 @@
-## **ERR-0006:** Error - Component Errors  
+## **ERR-0003:** Error - Component Errors  
 
 > **Summary:** Verify that component errors are contained and do not crash the entire application.  <br>
 

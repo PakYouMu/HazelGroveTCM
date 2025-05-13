@@ -1,4 +1,4 @@
-## **SEC-0007:** Security - Content Security Policy  
+## **SEC-0005:** Security - Content Security Policy  
 
 > **Summary:** Verify that Content Security Policy is properly configured.  <br>
 

@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **SEC-0007:** Security - Content Security Policy  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that Content Security Policy is properly configured.  <br>
 
 **Preconditions:** 
 

@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **SEARCH-0007:** Search - Store Selection  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that selecting a search result correctly loads the store component.  <br>
 
 **Preconditions:** 
 

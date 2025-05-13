@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **SEC-0008:** Security - CORS Configuration  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that CORS is properly configured to prevent unauthorized cross-origin requests.  <br>
 
 **Preconditions:** 
 

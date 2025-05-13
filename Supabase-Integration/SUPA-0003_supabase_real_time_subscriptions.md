@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **SUPA-0004:** Supabase - Real-time Subscriptions  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that real-time subscriptions work correctly for different tables.  <br>
 
 **Preconditions:** 
 

@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **SUPA-0007:** Supabase - Connection Recovery  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that RPC function calls work correctly (get_user_avatar, get_user_email).  <br>
 
 **Preconditions:** 
 

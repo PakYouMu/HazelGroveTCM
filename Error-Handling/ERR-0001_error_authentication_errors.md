@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **ERR-0002:** Error - Authentication Errors  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that authentication errors provide clear and helpful messages.  <br>
 
 **Preconditions:** 
 

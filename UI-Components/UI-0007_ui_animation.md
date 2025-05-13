@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **UI-0008:** UI - Animation  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that UI animations work correctly and complete within expected timeframes.  <br>
 
 **Preconditions:** 
 

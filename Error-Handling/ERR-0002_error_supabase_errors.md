@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **ERR-0005:** Error - Supabase Errors  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that Supabase errors are handled appropriately.  <br>
 
 **Preconditions:** 
 

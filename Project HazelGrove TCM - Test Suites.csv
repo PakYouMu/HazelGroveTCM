@@ -47,20 +47,20 @@ Product Management,,
 UI Components,,
   UI - Message Card,UI-0001,Verify that message cards render correctly with different user types.
   UI - Product Card,UI-0002,Verify that product cards display correct information and handle price formatting.
-  UI - Search Bar,UI-0003,Verify that search bar UI works correctly with different states (loading, results, empty).
+  UI - Search Bar,UI-0003,"Verify that search bar UI works correctly with different states (loading, results, empty)."
   UI - Success Dialog,UI-0004,Verify that success dialog displays correctly and can be dismissed.
   UI - Error Display,UI-0005,Verify that error display component shows errors correctly and can be dismissed.
   UI - Store Status Card,UI-0006,Verify that store status card displays open/closed status correctly.
   UI - Responsive Design,UI-0007,Verify that UI components adapt correctly to different screen sizes.
   UI - Animation,UI-0008,Verify that UI animations work correctly and complete within expected timeframes.
-  UI - Accessibility,UI-0009,Verify that UI components meet accessibility standards (keyboard navigation, screen readers).
+  UI - Accessibility,UI-0009,"Verify that UI components meet accessibility standards (keyboard navigation, screen readers)."
 Supabase Integration,,
   Supabase - Authentication,SUPA-0001,Verify that Supabase authentication integration works correctly.
   Supabase - Data Fetching,SUPA-0002,Verify that data fetching from Supabase works correctly.
   Supabase - Data Mutations,SUPA-0003,Verify that data mutations (insert/update/delete) work correctly.
   Supabase - Real-time Subscriptions,SUPA-0004,Verify that real-time subscriptions work correctly for different tables.
   Supabase - Error Handling,SUPA-0005,Verify that Supabase errors are handled gracefully.
-  Supabase - RPC Functions,SUPA-0006,Verify that RPC function calls work correctly (get_user_avatar, get_user_email).
+  Supabase - RPC Functions,SUPA-0006,"Verify that RPC function calls work correctly (get_user_avatar, get_user_email)."
   Supabase - Connection Recovery,SUPA-0007,Verify that the application recovers gracefully from connection interruptions.
 Security Testing,,
   Security - Input Validation,SEC-0001,Verify that all user inputs are properly validated before processing.

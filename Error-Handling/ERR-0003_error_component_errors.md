@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **ERR-0006:** Error - Component Errors  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that component errors are contained and do not crash the entire application.  <br>
 
 **Preconditions:** 
 

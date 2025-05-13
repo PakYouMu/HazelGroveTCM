@@ -1,6 +1,6 @@
-## **SEC-0003:** Security - SQL Injection Prevention  
+## **SEARCH-0006:** Search - Empty Results Handling  
 
-> **Summary:** Verify that database queries are protected against SQL injection.  <br>
+> **Summary:** Verify that empty search results are handled gracefully.  <br>
 
 **Preconditions:** 
 

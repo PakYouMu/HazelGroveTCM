@@ -34,7 +34,8 @@ hazelgrove-testing/
 └── README.md                                 # Project Documentation
 ```
 
-[Project HazelGrove Test Plan](https://docs.google.com/spreadsheets/d/1D-2j-H0TQNjCP05YD2ctwywwGUVOJ1oXHSQjTot5Z-0/edit?usp=sharing)
+## Up-to-Date Updates
+[Project HazelGrove Test Plan](https://docs.google.com/spreadsheets/d/1D-2j-H0TQNjCP05YD2ctwywwGUVOJ1oXHSQjTot5Z-0/edit?usp=sharing) <br/>
 [Project Hazel Grove Test Suite](https://docs.google.com/spreadsheets/d/13fxEy2P3ricwzi8u7n2ufLLJyfDS4K6THt8URVaXO74/edit?usp=sharing)
 
 ## 🧪 Test Cases

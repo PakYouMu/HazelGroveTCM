@@ -4,18 +4,17 @@
 
 **Preconditions:** 
 
-- _Precondition 1_ 
-- _Precondition 2_ 
+- The store component uses responsive CSS or framework (e.g., media queries, Flexbox).
+- App is accessed on multiple screen sizes (or simulated using dev tools).
 
 **Test Steps:** 
 
-| \# | Step Description | Expected Result   | 
-|----|------------------|-------------------| 
-| 1  |                  |                   | 
-| 2  |                  |                   | 
-| 3  |                  |                   |  
+| \# | Step Description                        | Expected Result                                               |
+| -- | --------------------------------------- | ------------------------------------------------------------- |
+| 1  | Open store page on a desktop view. | Full layout appears with proper spacing and structure. |
+| 2  | Resize window to tablet and mobile view. | Layout adjusts accordingly (stacking, resizing, hiding, etc.). |
+| 3  | Confirm usability and visibility. | All key data and controls remain accessible. |
 
 **Post-conditions:**  
 
-- _Post-condition 1_ 
-- _Post-condition 2_ 
+- Store UI adapts cleanly to various devices (mobile, tablet, desktop).

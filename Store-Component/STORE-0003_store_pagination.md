@@ -4,18 +4,17 @@
 
 **Preconditions:** 
 
-- _Precondition 1_ 
-- _Precondition 2_ 
+- The store has enough products to trigger pagination.
+- Pagination logic is implemented in the store component.
 
 **Test Steps:** 
 
-| \# | Step Description | Expected Result   | 
-|----|------------------|-------------------| 
-| 1  |                  |                   | 
-| 2  |                  |                   | 
-| 3  |                  |                   |  
+| \# | Step Description                   | Expected Result                            |
+| -- | ---------------------------------- | ------------------------------------------ |
+| 1 | Load a store with many products. | First page of product list is shown. |
+| 2 | Click “Next” or "Prev" button. | New product entries appear. |
+| 3 | Confirm correct page display. | Products from the next or previous page load correctly. |
 
 **Post-conditions:**  
 
-- _Post-condition 1_ 
-- _Post-condition 2_ 
+- Users can view different pages of products without data duplication or loss.

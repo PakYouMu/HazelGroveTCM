@@ -4,18 +4,17 @@
 
 **Preconditions:** 
 
-- _Precondition 1_ 
-- _Precondition 2_ 
+- Store component supports real-time updates (via WebSockets).
+- Store data is changed externally (via system update).
 
 **Test Steps:** 
 
-| \# | Step Description | Expected Result   | 
-|----|------------------|-------------------| 
-| 1  |                  |                   | 
-| 2  |                  |                   | 
-| 3  |                  |                   |  
+| \# | Step Description                           | Expected Result                                         |
+| -- | ------------------------------------------ | ------------------------------------------------------- |
+| 1  | Load a store page/component. | Current store data is displayed. |
+| 2  | Trigger or simulate external store update. | A field (e.g., product or status) is updated in backend. |
+| 3  | Wait for real-time mechanism to reflect it. | Store component shows updated data without reload. |
 
 **Post-conditions:**  
 
-- _Post-condition 1_ 
-- _Post-condition 2_ 
+- Store data in the component reflects the new updates without manual refresh.

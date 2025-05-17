@@ -4,18 +4,19 @@
 
 **Preconditions:** 
 
-- _Precondition 1_ 
-- _Precondition 2_ 
+- The user has access to the search functionality or direct store block on the map.
+- The store exists in the database.
+- The store component is implemented and routable.
 
 **Test Steps:** 
 
-| \# | Step Description | Expected Result   | 
-|----|------------------|-------------------| 
-| 1  |                  |                   | 
-| 2  |                  |                   | 
-| 3  |                  |                   |  
+| \# | Step Description                       | Expected Result                                                 |
+| ------ | -------------------------------------- | --------------------------------------------------------------- |
+| 1  | Search for or navigate to a store. | Store is listed or link is accessible. |
+| 2  | Select the store from the results/list. | Store component begins loading. |
+| 3  | Observe store component after loading. | All relevant store data is shown (name, products, status, etc.). |
 
 **Post-conditions:**  
 
-- _Post-condition 1_ 
-- _Post-condition 2_ 
+- The selected store’s data is displayed accurately.
+- No stale or unrelated data is visible.

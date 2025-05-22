@@ -18,25 +18,23 @@ This repository is used to:
 
 ```bash
 hazelgrove-testing/
-├── Accessibility-Testing/                    # Accessibility Testing Suite  
-├── Authentication-Testing/                   # Authentication Testing Suite  
-├── Error-Handling/                           # Error Handling Testing Suite  
-├── Integration-Testing/                      # Integration Testing Suite     
-├── Performance-Testing/                      # Performance Testing Suite     
-├── Product-Management/                       # Product Information Manager Testing Suite   
-├── Search-Functionality/                     # Search Bar Testing Suite   
-├── Security-Testing/                         # Security Testing Suite  
-├── Store-Component/                          # Store Component Testing Suite  
-├── Supabase-Integration/                     # Supabase Integration Testing Suite  
-├── UI-Components/                            # UI Components Testing Suite  
-├── User-Management/                          # User Management Testing Suite
-├── expand.py                                 # Test Suite Expansion CSV  
-└── README.md                                 # Project Documentation
+├── Accessibility-Testing/     # Accessibility Testing Suite  
+├── Authentication-Testing/    # Authentication Testing Suite     
+├── Performance-Testing/       # Performance Testing Suite     
+├── Product-Management/        # Product Information Manager Testing Suite   
+├── Search-Functionality/      # Search Bar Testing Suite   
+├── Security-Testing/          # Security Testing Suite  
+├── Store-Component/           # Store Component Testing Suite  
+├── Supabase-Integration/      # Supabase Integration Testing Suite  
+├── UI-Components/             # UI Components Testing Suite  
+├── User-Management/           # User Management Testing Suite
+├── expand.py                  # Test Suite Expansion CSV  
+└── README.md                  # Project Documentation
 ```
 
 ## Up-to-Date Updates
-[Project HazelGrove Test Plan](https://docs.google.com/spreadsheets/d/1D-2j-H0TQNjCP05YD2ctwywwGUVOJ1oXHSQjTot5Z-0/edit?usp=sharing) <br/>
-[Project Hazel Grove Test Suite](https://docs.google.com/spreadsheets/d/13fxEy2P3ricwzi8u7n2ufLLJyfDS4K6THt8URVaXO74/edit?usp=sharing)
+[Project HazelGrove Test Plan](https://docs.google.com/spreadsheets/d/1D-2j-H0TQNjCP05YD2ctwywwGUVOJ1oXHSQjTot5Z-0/edit?gid=184807390#gid=184807390) <br/>
+[Project Hazel Grove TCM](https://docs.google.com/spreadsheets/d/13fxEy2P3ricwzi8u7n2ufLLJyfDS4K6THt8URVaXO74/edit?gid=2078614767#gid=2078614767)
 
 ## 🧪 Test Cases
 
@@ -93,13 +91,4 @@ This section outlines the various test suites and individual test cases designed
     *   [SEC-0004: Security - Authentication Bypass](/Security-Testing/SEC-0004_security_authentication_bypass.md)
     *   [SEC-0005: Security - Content Security Policy](/Security-Testing/SEC-0005_security_content_security_policy.md)
     *   [SEC-0006: Security - CORS Configuration](/Security-Testing/SEC-0006_security_cors_configuration.md)
-*   [Error Handling](/Error-Handling)
-    *   [ERR-0001: Error - Authentication Errors](/Error-Handling/ERR-0001_error_authentication_errors.md)
-    *   [ERR-0002: Error - Supabase Errors](/Error-Handling/ERR-0002_error_supabase_errors.md)
-    *   [ERR-0003: Error - Component Errors](/Error-Handling/ERR-0003_error_component_errors.md)
-*   [Integration Testing](/Integration-Testing)
-    *   [INT-0001: Integration - Authentication Flow](/Integration-Testing/INT-0001_integration_authentication_flow.md)
-    *   [INT-0002: Integration - Search to Store Flow](/Integration-Testing/INT-0002_integration_search_to_store_flow.md)
-    *   [INT-0003: Integration - Product Management Flow](/Integration-Testing/INT-0003_integration_product_management_flow.md)
-    *   [INT-0004: Integration - User Management Flow](/Integration-Testing/INT-0004_integration_user_management_flow.md)
-    *   [INT-0005: Integration - Error Handling Flow](/Integration-Testing/INT-0005_integration_error_handling_flow.md)
+* 

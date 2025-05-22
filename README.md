@@ -34,7 +34,7 @@ hazelgrove-testing/
 
 ## Up-to-Date Updates
 [Project HazelGrove Test Plan](https://docs.google.com/spreadsheets/d/1D-2j-H0TQNjCP05YD2ctwywwGUVOJ1oXHSQjTot5Z-0/edit?gid=184807390#gid=184807390) <br/>
-[Project Hazel Grove TCM](https://docs.google.com/spreadsheets/d/13fxEy2P3ricwzi8u7n2ufLLJyfDS4K6THt8URVaXO74/edit?gid=2078614767#gid=2078614767)
+[Project Hazel Grove Test Suites](https://docs.google.com/spreadsheets/d/13fxEy2P3ricwzi8u7n2ufLLJyfDS4K6THt8URVaXO74/edit?gid=2078614767#gid=2078614767)
 
 ## 🧪 Test Cases
 

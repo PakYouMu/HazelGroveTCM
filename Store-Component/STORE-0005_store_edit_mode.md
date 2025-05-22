@@ -4,18 +4,17 @@
 
 **Preconditions:** 
 
-- _Precondition 1_ 
-- _Precondition 2_ 
+- Edit mode is implemented and accessible.
+- User is authenticated and authorized to edit.
+- An existing store is clicked or currently accessed through the store card.
 
 **Test Steps:** 
-
-| \# | Step Description | Expected Result   | 
-|----|------------------|-------------------| 
-| 1  |                  |                   | 
-| 2  |                  |                   | 
-| 3  |                  |                   |  
+| \# | Step Description                     | Expected Result                                        |
+| -- | ------------------------------------ | ------------------------------------------------------ |
+| 1  | Access a store as an authorized user. | Store component loads normally. |
+| 2  | Click the “Edit Products” toggle button. | Component enters edit mode (input fields appear, etc.). |
+| 3  | Toggle edit mode off. | Component returns to view-only mode. |
 
 **Post-conditions:**  
 
-- _Post-condition 1_ 
-- _Post-condition 2_ 
+- Edit mode can be enabled/disabled and reflects in UI and form controls.
